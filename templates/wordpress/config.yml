@@ -1,5 +1,9 @@
-name: MyWordpress
+name: MyWordpress # Name of the Catalog Entry
 description: |
-  Blog tool, publishing platform and CMS
-version: v1.0
-category: Blogging
+  Blog tool
+  # Description of the Catalog Entry
+version: v1.0.0 # Version of the Catalog to be used
+category: Demo # Category to be used for searching catalog entries
+maintainer: # The maintainer of the catalog entry
+license: Apache 2.0 # The license
+projectURL: https://www.yiguitar.com # A URL related to the catalog entry
